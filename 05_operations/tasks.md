@@ -43,6 +43,11 @@
 - [x] 경쟁 환경 분석 (`02_marketing/competitive-landscape.md`)
 - [x] 위치 확정 (가평군 설악면 유명로 2534, 화도IC 20분)
 - [x] 사장님 권위 확정 (JetSurf 공식 디스트리뷰터 + Fliteboard 한국 유일 FLITE SCHOOL)
+- [x] Klook 카테고리 빈 자리 검증 (jetsurf/e-foil/motosurf 한국 0개)
+- [x] 키워드·유입 분석 (`02_marketing/klook-category-keywords.md`)
+- [x] **사장님 공식 가격표 확보 → `01_business/partner-pricing-confirmed.md`**
+- [x] OTA 상품 라인업 18개 실가격 기반 재작성
+- [x] 매출 시나리오 실제 가격으로 재계산 (기본 6개월 사장님 ₩41.9M 추가매출)
 
 ## 완료 (Done)
 - [x] 프로젝트 저장소 초기 셋업

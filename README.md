@@ -25,7 +25,8 @@
 **사업 큰 그림**
 - [overview.md](01_business/overview.md) — 한 줄 정의·파트너십·위치
 - [partner-info.md](01_business/partner-info.md) — 서프앤 디테일 (브라우저 직접 분석 기반)
-- [revenue-scenarios.md](01_business/revenue-scenarios.md) — 매출·커미션 시나리오 3안
+- [partner-pricing-confirmed.md](01_business/partner-pricing-confirmed.md) — **공식 가격표 (2026-05-20 확정)**
+- [revenue-scenarios.md](01_business/revenue-scenarios.md) — 매출·커미션 시나리오 3안 (실가격 기반)
 
 **전략·실행**
 - [registration-checklist.md](02_marketing/registration-checklist.md) — 채널 등록 로드맵

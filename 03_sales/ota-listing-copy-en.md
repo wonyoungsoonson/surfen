@@ -79,39 +79,109 @@ Wakeboard & Wakesurf Combo in Gapyeong — Water Sports near Seoul
 
 ## D. Product Lineup (English)
 
-> 사장님 정가 받은 뒤 가격은 갱신. 아래 가격은 글로벌 벤치마크·시장 분석 기반 제안값.
+> ✅ 2026-05-20 사장님 공식 메뉴 확정 가격. [partner-pricing-confirmed.md](../01_business/partner-pricing-confirmed.md) 참조.
 
-### Product 1 — Floating Platform & Banana Boat Day Pass
-**₩45,000 / person** · 4 hours · Ages 8+
-> Cool off on Cheongpyeong Lake with our floating water playground — slides, jumps, and a banana boat ride included. Perfect for first-timers, families, or as a warm-up before your JetSurf session. Life jacket and shower facilities included.
+### 입문 / Entry Level
 
-### Product 2 — Wakeboard & Wakesurf Combo
-**₩90,000 / person** · 60 minutes · Ages 12+
-> Two classic board sports in one session. Coach in the boat, you on the board. Includes basic instruction, board, life jacket, and HD video of your runs.
+#### Product 1 — Cheongpyeong Lake Floating Park (1 Ride)
+**₩20,000 / person** · ~10 min · Ages 8+
+> Banana boat, disco ride, flying fish, or jump tube — pick one. The easiest way to feel the lake.
 
-### Product 3 — JetSurf® Discovery Lesson ⭐ SIGNATURE
-**₩180,000 / person** · 60 minutes · Ages 14+, max 100 kg
+#### Product 2 — Floating Park Combo (4 Activities)
+**₩60,000 / person** · ~30 min · Ages 8+
+> All 4 inflatable tow rides — banana boat, disco, flying fish, monster jump. Perfect warm-up before your JetSurf session.
+
+#### Product 3 — Beginner Lesson + Park Combo
+**₩100,000 / person** · 2~3 hours · Ages 10+
+> Two beginner wake/ski lessons + all 4 floating park rides. Best value for first-timers.
+
+### 중급 / Intermediate
+
+#### Product 4 — Wakeboard Intermediate (1 Round)
+**₩25,000 / person** · ~10 min · Ages 12+
+> For riders with prior board experience. One run with the boat.
+
+#### Product 5 — Beginner Wake/Ski Lessons (2 Sessions)
+**₩70,000 / person** · 2 sessions · Ages 10+
+> Two-session beginner course. Most learners are standing by the end.
+
+### 시그니처 / Signature ⭐
+
+#### Product 6 — Wakesurf Discovery (Beginner, 30 min)
+**₩150,000 / person** · 30 minutes · Ages 12+
+> Beginner-only wakesurf course. Smooth, soft landings, instant addiction.
+
+#### Product 7 — Wakesurf 30-min Package
+**₩180,000 / person** · 30 minutes · Ages 12+
+> 30 minutes of premium wakesurf riding behind our boat. HD video included.
+
+#### Product 8 — **JetSurf Discovery (30 min)** 🏄‍♂️ MOST POPULAR
+**₩210,000 / person** · 30 minutes · Ages 14+
 > The original Czech-engineered motorized surfboard. Stand-up, gas-powered, race-ready. As Korea's official JetSurf distributor, we ride the same boards used in the MOTOSURF World Championship — and now you can try one.
 >
-> Includes: certified Czech JetSurf board, helmet & life jacket, 1-on-1 coach, HD video, post-ride debrief. No prior experience required.
-
-### Product 4 — Fliteboard™ (e-Foil) Discovery ⭐ SIGNATURE
-**₩200,000 / person** · 60 minutes · Ages 14+, max 100 kg
-> Fly above the water on an electric hydrofoil. Silent, smooth, and unforgettable. We are Korea's *only* authorized Fliteboard partner and the country's only FLITE SCHOOL.
+> Includes: certified Czech JetSurf board, helmet & life jacket, 1-on-1 coach.
 >
-> Includes: certified Fliteboard, full safety gear, dedicated coach, HD video, photo set.
+> *Global benchmark: JetSurf Academy Orlando charges $149 for the same 30-min Discovery.*
 
-### Product 5 — Yacht Cruise on Cheongpyeong Lake
-**From ₩150,000 / person** · 2 hours · All ages
-> Sunset or daytime cruise with up to {N} guests. Drinks and snacks available. Custom packages for couples or groups.
+#### Product 9 — Wakesurf 60-min Premium
+**₩360,000 / person** · 60 minutes · Ages 12+
+> One full hour of wakesurfing — for riders who want to *really* feel it.
 
-### Product 6 — Ultimate Combo (JetSurf + Fliteboard) 🏆 BEST VALUE
-**₩350,000 / person** · Half day · Ages 14+
-> Try both signature sports in one half-day. Save ₩30,000 vs. booking separately. Includes all gear, HD video reel, lunch voucher.
+#### Product 10 — **JetSurf Full Hour** 🔥 PREMIUM
+**₩400,000 / person** · 60 minutes · Ages 14+
+> A full hour on Korea's only authorized JetSurf — the same boards used in international championships. For the rider who wants the full experience.
 
-### Product 7 — Private Group Charter (4+ guests)
+### 보트 투어 / Boat Tours
+> Round-trip motorboat experiences from our pier — **including iconic Gapyeong landmarks**. Up to 5 (Standard) or 10 (Luxury Houseboat) per boat. *Price is per boat, not per person.*
+
+#### Product 11 — Petite France Boat Tour (5-seater)
+**₩80,000 / boat** (up to 5 people) · 10-15 min round trip
+> Glide past Petite France, the famous fairytale village seen in K-dramas. Photo stop included.
+
+#### Product 12 — Sand Island Boat Tour (5-seater)
+**₩100,000 / boat** (up to 5) · 15-20 min round trip
+> Quick lake cruise to the famous sandbar — great for selfies and a quick swim.
+
+#### Product 13 — **Nami Island Boat Tour (5-seater)** 🌳 BUCKET LIST
+**₩300,000 / boat** (up to 5 = ₩60,000/person) · 50-60 min round trip
+> Take a private motorboat to **Nami Island** — Korea's most iconic destination, made famous by *Winter Sonata*. Skip the regular tourist ferry. Round trip from our pier.
+
+#### Product 14 — Luxury Houseboat to Nami Island (10-seater)
+**₩700,000 / boat** (up to 10 = ₩70,000/person) · 50-60 min round trip
+> Spacious houseboat with relaxed seating. Ideal for groups, couples, or content shoots. Round trip from our pier.
+
+#### Product 15 — Luxury Houseboat — Hongcheon River Cruise (10-seater)
+**₩400,000 / boat** (up to 10) · 30-40 min round trip
+> Cruise up Hongcheon River on a luxury houseboat. Group-friendly, view-rich.
+
+### 콤보 / Ultimate Combos 🏆
+
+#### Product 16 — JetSurf + Nami Island Boat Tour (Group of 4)
+**Combo from ~₩270,000 / person** · Half day · Ages 14+
+> 30-min JetSurf Discovery + private Nami Island boat tour (shared with up to 4 friends). Korea's most exclusive Gapyeong half-day.
+
+#### Product 17 — Surf + BBQ Day Pass
+**Custom pricing** · Full day
+> Wakesurf or JetSurf session + BBQ rental + 삼겹살 set. Perfect for groups. (BBQ rental ₩25,000 + food per person ~₩20,000.)
+
+#### Product 18 — Private Group Charter (4+ guests, custom mix)
 **Custom pricing** · Half/full day · All ages
-> Buy out our facility for your group. Mix and match any activities. Ideal for bachelor/bachelorette, corporate retreats, content creators, or premium tours.
+> Buy out a slot for your crew. Mix any activities (JetSurf, Wakesurf, Park, Nami boat). Bachelor/bachelorette, corporate retreats, content creators.
+
+---
+
+### Notes on Booking (from official policy)
+- **Booking deposit**: ₩100,000 per booking
+- **Operating hours**: 07:00 – 18:00 (reservation only)
+- **Wakesurf solo rule**: Minimum 2 surfers per round; solo riders need minimum 2 rounds (20 min)
+- **Wakesurf extensions**: 10-min increments (20/30/40 min, etc.)
+
+### Cafe & Food (Available on-site, ordered separately)
+- Korean ramen ₩5,000 · 만두 ₩5,000 · 햇반 ₩2,000
+- BBQ kit (group) ₩25,000 + 삼겹살 300g ₩20,000
+- 부대찌개 / 부대떡볶이 milkit ₩40,000~₩45,000
+- Coffees ₩5,000~6,000 · Teas ₩5,000 · Smoothies ₩6,000
+- Sodas ₩3,000 · Water ₩1,000
 
 ---
 
