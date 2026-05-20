@@ -8,7 +8,37 @@
 
 ## A. Brand Headlines (Use at top of every listing)
 
-### Primary headline
+### Klook 상품 타이틀 (검색·CTR 최적화 완성본)
+
+> 키워드 분석 결과 — Klook 검색량 산정 + 동종 글로벌 상품 패턴 기반.
+> 자세한 키워드 근거는 [`../02_marketing/klook-category-keywords.md`](../02_marketing/klook-category-keywords.md)
+
+**시그니처 1 — JetSurf**
+```
+JetSurf Discovery Lesson in Gapyeong, Korea — Official Academy near Seoul
+```
+
+**시그니처 2 — Fliteboard / e-foil**
+```
+E-Foil (Fliteboard) Discovery Lesson in Gapyeong, Korea — FLITE School near Seoul
+```
+
+**최강 콤보**
+```
+JetSurf + E-Foil Ultimate Combo — Korea's Premium Water Sports Experience in Gapyeong (Half Day)
+```
+
+**입문 상품**
+```
+Cheongpyeong Lake Water Park & Banana Boat Day Pass — Gapyeong Water Activities near Seoul
+```
+
+**웨이크 콤보**
+```
+Wakeboard & Wakesurf Combo in Gapyeong — Water Sports near Seoul
+```
+
+### Primary brand headline (페이지 본문 첫 줄)
 > **Korea's Only JetSurf & Fliteboard Academy**
 
 ### Sub-headlines (rotate)
