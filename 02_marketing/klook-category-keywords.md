@@ -106,8 +106,27 @@ Klook + Trazy + Google 검색 패턴 분석 + 가평 208개 결과의 의미:
 | **action sports korea** | 연중 | 시그니처 종목 |
 | **adrenaline korea** | 연중 | 시그니처 종목 |
 | **weekend trip from seoul** | 주말 | 빠지·웨이크 콤보 |
-| **bachelor / bachelorette korea** | 그룹 | 프라이빗 차터 |
+| **bachelor / bachelorette korea** | 그룹 | 프라이빗 파티 패키지 |
 | **content creator korea** | 인플루언서 | 인플루언서 협업 패키지 |
+
+### 🆕 4순위 — B2B · 숙박 · 픽업 (새 카테고리, 2026-05-20 추가)
+
+| 키워드 | 카테고리 | 우리 매핑 |
+| --- | --- | --- |
+| **corporate retreat korea** | B2B | 워크샵 + 액티비티 패키지 |
+| **team building gapyeong** | B2B | 단체 팀빌딩 |
+| **company workshop near seoul** | B2B | 1일/1박 패키지 |
+| **offsite venue korea** | B2B | 워크샵 + 숙박 |
+| **stay gapyeong** | 숙박 | 1박 2일 패키지 |
+| **lake house stay korea** | 숙박 | 럭셔리 1박 |
+| **weekend stay near seoul** | 숙박 | 1박 2일 |
+| **honeymoon korea adventure** | 숙박 | 커플 1박 |
+| **anniversary korea** | 숙박 | 커플 럭셔리 |
+| **bbq korea group** | 식음료 | BBQ 옵션 |
+| **train from seoul to gapyeong** | 픽업 | 청평역 픽업 |
+| **cheongpyeong station** | 픽업 | 픽업 |
+| **transport from seoul gapyeong** | 픽업 | "Free pickup" |
+| **easy access seoul day trip** | 픽업 | "1 hour by ITX" |
 
 ### 4순위 — 국가별 언어 키워드
 

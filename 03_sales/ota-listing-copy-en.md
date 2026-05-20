@@ -1,45 +1,74 @@
-# OTA Listing Copy (EN) — Surfen / JetSurf Korea Academy
+# OTA Listing Copy (EN) — Surfen Cheongpyeong
 
 > Ready-to-paste English copy for Klook, KKday, Viator, Trazy, GetYourGuide, TripAdvisor.
-> Anchored in verified facts: Korea's official JetSurf distributor + only authorized Fliteboard FLITE SCHOOL + MOTOSURF competition host.
-> 가격은 글로벌 벤치마크($149 JetSurf Orlando) + 한국 시장 보정 제안값. 사장님 정가 확정 후 갱신.
+>
+> ## 🔄 2026-05-20 시즌 결정 반영
+> - **JetSurf 미운영** — 상품 라인업·헤드라인에서 제거
+> - JetSurf Korea 디스트리뷰터 권위는 **신뢰 백그라운드**로만 유지
+> - 시그니처 종목: **Fliteboard (e-foil) + 웨이크서프 + 럭셔리 요트 + 보트 투어 (남이섬·쁘띠프랑스)**
+> - **숙박·BBQ 무료 인센티브** (₩100k+ 숙박 무료, ₩200k+ 숙박+BBQ 무료) → 1박 패키지 만들기 핵심
+> - 청평역 픽업 5분 → "Free pickup from Cheongpyeong Station" 헤드 카드
 
 ---
 
-## A. Brand Headlines (Use at top of every listing)
+## A. Brand Headlines (Use at top of every listing) — 2026 시즌
 
-### Klook 상품 타이틀 (검색·CTR 최적화 완성본)
+### Primary headline
+> **Cheongpyeong's Premier Lake Sports Destination**
 
-> 키워드 분석 결과 — Klook 검색량 산정 + 동종 글로벌 상품 패턴 기반.
-> 자세한 키워드 근거는 [`../02_marketing/klook-category-keywords.md`](../02_marketing/klook-category-keywords.md)
+### Sub-headlines (rotate)
+- *5 minutes from Cheongpyeong Station. Wakesurf, e-foil, luxury houseboat tours, BBQ, and overnight stay — all in one place.*
+- *Korea's only authorized Fliteboard FLITE School, by the lake.*
+- *Spend ₩200,000 — get free BBQ dinner and overnight stay.*
 
-**시그니처 1 — JetSurf**
-```
-JetSurf Discovery Lesson in Gapyeong, Korea — Official Academy near Seoul
-```
+### Trust badges (always show)
+- ✅ Korea's Only Authorized Fliteboard FLITE School
+- ✅ Backed by Korea's official JetSurf distributor (motorized water sports authority)
+- ✅ 5 minutes from Cheongpyeong Station (free pickup)
+- ✅ Free BBQ + Stay included with ₩200,000+ activities
 
-**시그니처 2 — Fliteboard / e-foil**
-```
-E-Foil (Fliteboard) Discovery Lesson in Gapyeong, Korea — FLITE School near Seoul
-```
+### Klook 상품 타이틀 (검색·CTR 최적화 완성본) — 2026 시즌
 
-**최강 콤보**
+**시그니처 1 — Fliteboard / e-foil**
 ```
-JetSurf + E-Foil Ultimate Combo — Korea's Premium Water Sports Experience in Gapyeong (Half Day)
-```
-
-**입문 상품**
-```
-Cheongpyeong Lake Water Park & Banana Boat Day Pass — Gapyeong Water Activities near Seoul
+E-Foil (Fliteboard) Discovery Lesson in Cheongpyeong — Korea's Only FLITE School near Seoul
 ```
 
-**웨이크 콤보**
+**시그니처 2 — Wakesurf Premium**
 ```
-Wakeboard & Wakesurf Combo in Gapyeong — Water Sports near Seoul
+Premium Wakesurf Experience in Cheongpyeong, Gapyeong — 1 Hour from Seoul
+```
+
+**럭셔리 콤보 (1박 2일)**
+```
+Cheongpyeong Lake Overnight Escape — Wakesurf + BBQ + Stay (1 Night, near Seoul)
+```
+
+**럭셔리 그룹 / 단체**
+```
+Private Luxury Houseboat to Nami Island — Yacht Charter from Cheongpyeong (up to 20)
+```
+
+**보트 투어**
+```
+Nami Island Boat Tour from Cheongpyeong — Private Motorboat Round Trip
+```
+
+**입문 / 패밀리**
+```
+Cheongpyeong Lake Water Park & Banana Boat Day Pass — Water Activities near Seoul
+```
+
+**입문 콤보**
+```
+Beginner Water Sports Lesson + Floating Park Combo in Cheongpyeong — near Seoul
 ```
 
 ### Primary brand headline (페이지 본문 첫 줄)
-> **Korea's Only JetSurf & Fliteboard Academy**
+> **Cheongpyeong's Premier Lake Sports Destination — 5 Minutes from Cheongpyeong Station**
+
+### Backstory headline (신뢰 보강)
+> *Founded by Korea's official JetSurf distributor and authorized Fliteboard FLITE School operator — the most equipped water sports facility on Cheongpyeong Lake.*
 
 ### Sub-headlines (rotate)
 - *Try the world's most premium motorized water sports — at the official school of Korea.*
@@ -81,6 +110,17 @@ Wakeboard & Wakesurf Combo in Gapyeong — Water Sports near Seoul
 
 > ✅ 2026-05-20 사장님 공식 메뉴 확정 가격. [partner-pricing-confirmed.md](../01_business/partner-pricing-confirmed.md) 참조.
 
+### 🎁 The Best Deal in Cheongpyeong (every listing footer)
+
+```
+🛏️ Spend ₩100,000 — Get a FREE overnight stay
+🍖 Spend ₩200,000 — Get a FREE overnight stay + FREE BBQ dinner
+👥 Group of 4+ — 10% off OR free stay with welcome drink
+📅 Weekday (low season) — 40% off + free stay
+```
+
+This is Cheongpyeong's most generous water sports offer. One full Wakesurf hour (₩360,000) = a complete 1-night package with food and bed, no extra charge.
+
 ### 입문 / Entry Level
 
 #### Product 1 — Cheongpyeong Lake Floating Park (1 Ride)
@@ -115,21 +155,29 @@ Wakeboard & Wakesurf Combo in Gapyeong — Water Sports near Seoul
 **₩180,000 / person** · 30 minutes · Ages 12+
 > 30 minutes of premium wakesurf riding behind our boat. HD video included.
 
-#### Product 8 — **JetSurf Discovery (30 min)** 🏄‍♂️ MOST POPULAR
-**₩210,000 / person** · 30 minutes · Ages 14+
-> The original Czech-engineered motorized surfboard. Stand-up, gas-powered, race-ready. As Korea's official JetSurf distributor, we ride the same boards used in the MOTOSURF World Championship — and now you can try one.
+#### Product 8 — **Fliteboard™ (e-Foil) Discovery** 🛸 SIGNATURE
+**₩150,000 / person** · 90 minutes · Ages 15+
+> Fly silently above the water on an electric hydrofoil. We are Korea's *only* authorized Fliteboard partner and the country's only FLITE School.
 >
-> Includes: certified Czech JetSurf board, helmet & life jacket, 1-on-1 coach.
+> Includes: certified Fliteboard, full safety gear, dedicated coach (max 2 riders per slot), HD video set.
 >
-> *Global benchmark: JetSurf Academy Orlando charges $149 for the same 30-min Discovery.*
+> ⚠️ *Highly limited slots — only 2 riders per hour. Book early.*
 
-#### Product 9 — Wakesurf 60-min Premium
-**₩360,000 / person** · 60 minutes · Ages 12+
-> One full hour of wakesurfing — for riders who want to *really* feel it.
+#### Product 9 — Wakesurf 60-min Premium 🏄 SIGNATURE
+**₩360,000 / person** · 60 minutes · Ages 15+
+> One full hour of wakesurfing — premium boat, coach in the boat, you on the board. For riders who want to *really* feel it.
 
-#### Product 10 — **JetSurf Full Hour** 🔥 PREMIUM
-**₩400,000 / person** · 60 minutes · Ages 14+
-> A full hour on Korea's only authorized JetSurf — the same boards used in international championships. For the rider who wants the full experience.
+#### Product 10 — Wakesurf 120-min Half-Day
+**₩720,000 / person** · 120 minutes · Ages 15+
+> Two hours of wakesurfing — ideal for content creators, group days, or wakesurf addicts.
+
+#### Product 11 — **Luxury Yacht Charter (Boat-wide)** ⛵
+**₩700,000 / boat** (up to 20) · 60 minutes · Ages 5+
+> Premium yacht ride for the whole group. ~₩35,000/person if you fill the boat. Perfect for bachelorette, corporate, or family.
+
+#### Product 12 — Jet Ski Full Hour
+**₩400,000 / person** · 60 minutes · Ages 19+
+> Classic jet ski experience on the lake. One full hour. Coach instruction included for beginners.
 
 ### 보트 투어 / Boat Tours
 > Round-trip motorboat experiences from our pier — **including iconic Gapyeong landmarks**. Up to 5 (Standard) or 10 (Luxury Houseboat) per boat. *Price is per boat, not per person.*
@@ -156,9 +204,9 @@ Wakeboard & Wakesurf Combo in Gapyeong — Water Sports near Seoul
 
 ### 콤보 / Ultimate Combos 🏆
 
-#### Product 16 — JetSurf + Nami Island Boat Tour (Group of 4)
-**Combo from ~₩270,000 / person** · Half day · Ages 14+
-> 30-min JetSurf Discovery + private Nami Island boat tour (shared with up to 4 friends). Korea's most exclusive Gapyeong half-day.
+#### Product 16 — Wakesurf + Nami Island Boat Tour (Group of 4)
+**Combo from ~₩440,000 / person** · Half day · Ages 15+
+> 60-min wakesurf premium session + private Nami Island boat tour (shared with up to 4 friends). Cheongpyeong's most exclusive half-day. **Includes free BBQ and overnight stay (₩200k+ trigger).**
 
 #### Product 17 — Surf + BBQ Day Pass
 **Custom pricing** · Full day
@@ -167,6 +215,86 @@ Wakeboard & Wakesurf Combo in Gapyeong — Water Sports near Seoul
 #### Product 18 — Private Group Charter (4+ guests, custom mix)
 **Custom pricing** · Half/full day · All ages
 > Buy out a slot for your crew. Mix any activities (JetSurf, Wakesurf, Park, Nami boat). Bachelor/bachelorette, corporate retreats, content creators.
+
+---
+
+### 🌙 1박 2일 / Overnight Stay Packages
+
+> *NEW — Lodging available on-site. Day water sports + sunset BBQ + overnight stay + next-day activities.*
+> Final pricing pending partner confirmation. Estimates below assume premium positioning.
+
+#### Product 19 — Surfen Overnight Escape (1 Night, 2 Days)
+**Estimated ₩350,000 ~ ₩450,000 / person** · 1 night
+> The complete Gapyeong getaway: arrive by ITX, free pickup from Cheongpyeong Station, afternoon water sports (your choice of JetSurf, Wakesurf, or Park combo), sunset BBQ dinner by the lake, on-site lodging, next-morning Nami Island boat tour, return to Cheongpyeong Station.
+>
+> Includes: Pickup • Day activity (1) • BBQ dinner • Lodging • Breakfast voucher • Morning boat tour • Drop-off
+
+#### Product 20 — Couple's Lake Retreat (1 Night)
+**Estimated ₩550,000 ~ ₩750,000 / 2 people** · 1 night
+> A premium couple's getaway. Sunset cruise on our houseboat, BBQ dinner for two, lodging with lake view, breakfast, choice of morning activity.
+>
+> Perfect for honeymooners, anniversaries, special occasions.
+
+#### Product 21 — Family Weekend Package (2 Adults + 2 Kids, 1 Night)
+**Estimated ₩900,000 ~ ₩1,200,000 / family of 4** · 1 night
+> Family-friendly Gapyeong adventure. Kid-safe park activities, family boat tour, BBQ dinner, family-size lodging, next-day park access.
+
+---
+
+### 🏢 Corporate / Team Building Packages
+
+> *NEW — Group bookings for company retreats, team building, and workshops.*
+
+#### Product 22 — Half-Day Team Building (10+ people)
+**Estimated ₩150,000 ~ ₩200,000 / person** · 4 hours · Min 10 pax
+> Multi-activity team building: water sports (park combo + beginner lesson), group photo, lunch.
+>
+> Includes: Pickup from Cheongpyeong Station (10+ pax) • Multi-activity rotation • Lunch • Group photos & video
+
+#### Product 23 — Full-Day Corporate Workshop (10+ people)
+**Estimated ₩250,000 ~ ₩350,000 / person** · 8 hours · Min 10 pax
+> Half-day workshop space rental + half-day water sports + BBQ dinner. Can include meeting space, AV, lunch.
+>
+> Includes: Workshop space (TBC) • Water sports rotation • BBQ dinner • All-day refreshments
+
+#### Product 24 — Overnight Corporate Retreat (1 Night, 10+ people)
+**Estimated ₩450,000 ~ ₩650,000 / person** · 1 night · Min 10 pax
+> Two-day team retreat: arrive, workshop or activity session 1, BBQ dinner, overnight stay, breakfast, activity session 2, departure. Perfect for offsites, kickoffs, and team-building.
+
+---
+
+### 🎉 Private Party Packages
+
+> *Bachelorette/bachelor parties, birthdays, content creator events, influencer days.*
+
+#### Product 25 — Bachelor / Bachelorette Day (Group of 6-10)
+**Estimated ₩200,000 ~ ₩300,000 / person** · Full day
+> Full-day private experience: pickup, JetSurf or Wakesurf, Nami Island boat tour, BBQ dinner, custom playlist on the boat.
+>
+> Perfect for groups wanting an Instagrammable, action-packed celebration.
+
+#### Product 26 — Birthday on the Lake (Group of 4-10)
+**Estimated ₩150,000 ~ ₩250,000 / person** · Half day
+> Birthday combo: choice of water sport, group photo session, cake & BBQ on the lake.
+
+#### Product 27 — Content Creator / Influencer Day (1-3 people)
+**Custom pricing** · Half/full day
+> Dedicated content day with our coach. Multiple activities, drone footage, photo set, raw video. Posting partnerships discounted.
+
+---
+
+### 🚆 Cheongpyeong Station Pickup (NEW — Included with most packages)
+
+> **All bookings can include free pickup from Cheongpyeong Station** (request at time of booking; subject to availability for solo travelers, free for groups).
+> ITX-Cheongchun line: Yongsan Station → Cheongpyeong Station (~1 hour, ~₩4,800 KRW one way).
+
+```
+How to get here:
+1. Take ITX from Yongsan or Cheongnyangni Station
+2. Get off at Cheongpyeong Station (청평역)
+3. Message us — we'll be there in 15 minutes
+4. ~15-min ride to our pier in Seorak-myeon, Gapyeong
+```
 
 ---
 
