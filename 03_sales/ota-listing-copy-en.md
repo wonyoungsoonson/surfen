@@ -14,54 +14,61 @@
 ## A. Brand Headlines (Use at top of every listing) — 2026 시즌
 
 ### Primary headline
-> **Cheongpyeong's Premier Lake Sports Destination**
+> **Sleep where you surf — Korea's only stay-included water sports school.**
 
 ### Sub-headlines (rotate)
-- *5 minutes from Cheongpyeong Station. Wakesurf, e-foil, luxury houseboat tours, BBQ, and overnight stay — all in one place.*
-- *Korea's only authorized Fliteboard FLITE School, by the lake.*
-- *Spend ₩200,000 — get free BBQ dinner and overnight stay.*
+- *Every package includes a free lakeside cabin stay. Activity + Stay = one price.*
+- *Wakesurf today, wake by the lake tomorrow. Free pickup from Cheongpyeong Station.*
+- *Korea's only authorized Fliteboard FLITE School — by the water, with a bed for the night.*
 
-### Trust badges (always show)
-- ✅ Korea's Only Authorized Fliteboard FLITE School
-- ✅ Backed by Korea's official JetSurf distributor (motorized water sports authority)
-- ✅ 5 minutes from Cheongpyeong Station (free pickup)
-- ✅ Free BBQ + Stay included with ₩200,000+ activities
+### Trust badges (always show — 시그니처 패키지)
+- 🛏️ **Lakeside cabin stay included** in every package
+- 🍖 **BBQ dinner included** (premium packages from ₩200,000)
+- 🚆 **Free pickup from Cheongpyeong Station** — 5 minutes from station
+- 🛸 Korea's Only Authorized **Fliteboard FLITE School**
+- 🏄 Backed by Korea's official **JetSurf distributor**
 
-### Klook 상품 타이틀 (검색·CTR 최적화 완성본) — 2026 시즌
+### Hero Strategy
+> ⚠️ "Free" 단어를 단독으로 쓰지 말 것. "Included" 단어 일관 사용.
+> 숙박은 "혜택"이 아니라 "상품 구성 요소" — 가격에 녹여서 묶음 상품.
 
-**시그니처 1 — Fliteboard / e-foil**
-```
-E-Foil (Fliteboard) Discovery Lesson in Cheongpyeong — Korea's Only FLITE School near Seoul
-```
+### Klook 상품 타이틀 (Bundle-First, Stay Included)
 
-**시그니처 2 — Wakesurf Premium**
-```
-Premium Wakesurf Experience in Cheongpyeong, Gapyeong — 1 Hour from Seoul
-```
+> 모든 시그니처 상품 = "[Activity] & Lakeside Stay" Bundle. 숙박이 상품 디폴트.
 
-**럭셔리 콤보 (1박 2일)**
+**시그니처 1 — Fliteboard Bundle**
 ```
-Cheongpyeong Lake Overnight Escape — Wakesurf + BBQ + Stay (1 Night, near Seoul)
+Fliteboard (E-Foil) Discovery & Lakeside Cabin Stay in Cheongpyeong — Korea's Only FLITE School
 ```
 
-**럭셔리 그룹 / 단체**
+**시그니처 2 — Wakesurf Bundle**
 ```
-Private Luxury Houseboat to Nami Island — Yacht Charter from Cheongpyeong (up to 20)
-```
-
-**보트 투어**
-```
-Nami Island Boat Tour from Cheongpyeong — Private Motorboat Round Trip
+Wakesurf & Lakeside BBQ Stay Package in Cheongpyeong — Near Seoul (1 Night)
 ```
 
-**입문 / 패밀리**
+**럭셔리 — Yacht Bundle**
 ```
-Cheongpyeong Lake Water Park & Banana Boat Day Pass — Water Activities near Seoul
+Luxury Yacht Charter & Lakeside Stay in Cheongpyeong (Group of up to 20)
 ```
 
-**입문 콤보**
+**럭셔리 — Nami Boat Bundle**
 ```
-Beginner Water Sports Lesson + Floating Park Combo in Cheongpyeong — near Seoul
+Nami Island Boat Tour & Lakeside Stay Overnight Package — Cheongpyeong
+```
+
+**입문 — Park Bundle**
+```
+Cheongpyeong Lake Park & Cabin Stay Package — Beginner Water Sports near Seoul
+```
+
+**Jet Ski Bundle**
+```
+Jet Ski Full Hour & Lakeside BBQ Stay Package — Cheongpyeong (1 Night)
+```
+
+**Day-only 옵션 (작게 1~2개)**
+```
+Cheongpyeong Lake Floating Park Day Pass (Day-Only) — Near Seoul
 ```
 
 ### Primary brand headline (페이지 본문 첫 줄)
@@ -85,11 +92,11 @@ Beginner Water Sports Lesson + Floating Park Combo in Cheongpyeong — near Seou
 
 ## B. Hero Copy (Listing top — 80~120 words)
 
-> Imagine standing on a powered surfboard, carving across a glassy lake without a single wave. Or "flying" silently above the water on an electric hydrofoil — the most futuristic water sport on Earth.
+> Most Gapyeong day trips are this: take the train, ride a banana boat, take the train back. We do it differently.
 >
-> **Surfen** is Korea's official home for **JetSurf** and **Fliteboard (e-foil)** — the world's most exclusive motorized water sports. As the *only* authorized partner of these brands in Korea and host of MOTOSURF national competitions, we offer experiences no other school in the country can.
+> **Surfen** is Cheongpyeong's premier lake sports destination — and Korea's only authorized **Fliteboard FLITE School**. Every package includes a **free lakeside cabin stay** and **free pickup from Cheongpyeong Station**, just 5 minutes away. Choose your experience (wakesurf, e-foil, luxury houseboat to Nami Island), and we'll take care of the rest: bed, BBQ, breakfast, transport.
 >
-> One hour from Seoul, on the calm waters of Cheongpyeong Lake. English-speaking instructors. All gear included. Bring a swimsuit — leave with the coolest video your friends have ever seen.
+> One package. One price. One night you won't forget. **Sleep where you surf.**
 
 ---
 
@@ -106,101 +113,98 @@ Beginner Water Sports Lesson + Floating Park Combo in Cheongpyeong — near Seou
 
 ---
 
-## D. Product Lineup (English)
+## D. Product Lineup (English — Bundle-First)
 
-> ✅ 2026-05-20 사장님 공식 메뉴 확정 가격. [partner-pricing-confirmed.md](../01_business/partner-pricing-confirmed.md) 참조.
+> ✅ 모든 시그니처 상품 = "Activity + Lakeside Stay" 묶음.
+> 가격에 숙박 포함. "조건부 무료"가 아닌 "디폴트 포함" — OTA 등록·외국인 인식 모두 우호적.
 
-### 🎁 The Best Deal in Cheongpyeong (every listing footer)
+### Hero Package Card (모든 리스팅 상단)
 
 ```
-🛏️ Spend ₩100,000 — Get a FREE overnight stay
-🍖 Spend ₩200,000 — Get a FREE overnight stay + FREE BBQ dinner
-👥 Group of 4+ — 10% off OR free stay with welcome drink
-📅 Weekday (low season) — 40% off + free stay
+ONE PACKAGE INCLUDES:
+✓ Your activity of choice
+✓ Lakeside cabin stay (1 night)
+✓ BBQ dinner (premium packages from ₩200,000)
+✓ Free pickup from Cheongpyeong Station
+✓ All gear, safety briefing, HD video
+✓ English-speaking coach
 ```
 
-This is Cheongpyeong's most generous water sports offer. One full Wakesurf hour (₩360,000) = a complete 1-night package with food and bed, no extra charge.
+### Day-Only Products (입문 단품 — 숙박 없음)
 
-### 입문 / Entry Level
+#### Product 1 — Floating Park Single Ride
+**₩20,000 / person · Day-Only** · ~10 min · Ages 8+
+> Banana boat, disco ride, flying fish, or jump tube — pick one. Easiest entry to Cheongpyeong Lake.
 
-#### Product 1 — Cheongpyeong Lake Floating Park (1 Ride)
-**₩20,000 / person** · ~10 min · Ages 8+
-> Banana boat, disco ride, flying fish, or jump tube — pick one. The easiest way to feel the lake.
+#### Product 2 — Floating Park All-In Day Pass
+**₩60,000 / person · Day-Only** · ~30 min · Ages 8+
+> All 4 inflatable tow rides. Perfect for groups visiting Gapyeong for the day.
 
-#### Product 2 — Floating Park Combo (4 Activities)
-**₩60,000 / person** · ~30 min · Ages 8+
-> All 4 inflatable tow rides — banana boat, disco, flying fish, monster jump. Perfect warm-up before your JetSurf session.
+### Stay-Included Bundles ⭐ (시그니처 — 모두 1박 포함)
 
-#### Product 3 — Beginner Lesson + Park Combo
-**₩100,000 / person** · 2~3 hours · Ages 10+
-> Two beginner wake/ski lessons + all 4 floating park rides. Best value for first-timers.
-
-### 중급 / Intermediate
-
-#### Product 4 — Wakeboard Intermediate (1 Round)
-**₩25,000 / person** · ~10 min · Ages 12+
-> For riders with prior board experience. One run with the boat.
-
-#### Product 5 — Beginner Wake/Ski Lessons (2 Sessions)
-**₩70,000 / person** · 2 sessions · Ages 10+
-> Two-session beginner course. Most learners are standing by the end.
-
-### 시그니처 / Signature ⭐
-
-#### Product 6 — Wakesurf Discovery (Beginner, 30 min)
-**₩150,000 / person** · 30 minutes · Ages 12+
-> Beginner-only wakesurf course. Smooth, soft landings, instant addiction.
-
-#### Product 7 — Wakesurf 30-min Package
-**₩180,000 / person** · 30 minutes · Ages 12+
-> 30 minutes of premium wakesurf riding behind our boat. HD video included.
-
-#### Product 8 — **Fliteboard™ (e-Foil) Discovery** 🛸 SIGNATURE
-**₩150,000 / person** · 90 minutes · Ages 15+
-> Fly silently above the water on an electric hydrofoil. We are Korea's *only* authorized Fliteboard partner and the country's only FLITE School.
+#### Product 3 — **Cheongpyeong Park & Cabin Stay Package**
+**₩100,000 / person** · 1 night · Ages 10+
+> Two beginner wake/ski lessons + all 4 floating park rides + **lakeside cabin overnight stay** + free pickup from Cheongpyeong Station.
 >
-> Includes: certified Fliteboard, full safety gear, dedicated coach (max 2 riders per slot), HD video set.
+> *Korea's most affordable stay-included water activity day.*
+
+#### Product 4 — **Fliteboard & Lakeside Cabin Stay** 🛸 SIGNATURE
+**₩150,000 / person** · 90-min activity + 1 night stay · Ages 15+
+> Fly silently above the water on an electric hydrofoil — then stay overnight by the lake. We're Korea's *only* authorized Fliteboard FLITE School.
 >
-> ⚠️ *Highly limited slots — only 2 riders per hour. Book early.*
+> **Includes**: 90-min Fliteboard session • All safety gear • 1-on-1 coach (max 2 riders/slot) • HD video • **Lakeside cabin stay (1 night)** • Free pickup from Cheongpyeong Station
+>
+> ⚠️ *Highly limited slots — only 2 riders per slot. Book early.*
 
-#### Product 9 — Wakesurf 60-min Premium 🏄 SIGNATURE
-**₩360,000 / person** · 60 minutes · Ages 15+
-> One full hour of wakesurfing — premium boat, coach in the boat, you on the board. For riders who want to *really* feel it.
+#### Product 5 — **Wakesurf Beginner & Cabin Stay**
+**₩150,000 / person** · 30-min activity + 1 night stay · Ages 15+
+> Your first wakesurf experience, plus a night by the lake. Beginner-only course — smooth, soft landings.
+>
+> **Includes**: 30-min wakesurf beginner course • Board & life jacket • Coach • **Lakeside cabin stay (1 night)** • Free pickup
 
-#### Product 10 — Wakesurf 120-min Half-Day
-**₩720,000 / person** · 120 minutes · Ages 15+
-> Two hours of wakesurfing — ideal for content creators, group days, or wakesurf addicts.
+### Premium Stay+BBQ Bundles 🍖🛏️ (₩200k+ — BBQ도 포함)
 
-#### Product 11 — **Luxury Yacht Charter (Boat-wide)** ⛵
-**₩700,000 / boat** (up to 20) · 60 minutes · Ages 5+
-> Premium yacht ride for the whole group. ~₩35,000/person if you fill the boat. Perfect for bachelorette, corporate, or family.
+#### Product 6 — **Wakesurf Premium & BBQ Lakeside Stay** 🏄 BESTSELLER
+**₩360,000 / person** · 60-min activity + BBQ + 1 night stay · Ages 15+
+> 1 full hour of premium wakesurf + sunset BBQ dinner + overnight stay by the lake. Cheongpyeong's most complete water sports experience.
+>
+> **Includes**: 60-min wakesurf • Premium boat & coach in-boat • HD video & photo set • **Sunset BBQ dinner (Korean 삼겹살)** • **Lakeside cabin stay (1 night)** • Breakfast voucher • Free pickup
 
-#### Product 12 — Jet Ski Full Hour
-**₩400,000 / person** · 60 minutes · Ages 19+
-> Classic jet ski experience on the lake. One full hour. Coach instruction included for beginners.
+#### Product 7 — **Wakesurf Half-Day & BBQ Stay**
+**₩720,000 / person** · 120-min activity + BBQ + 1 night stay · Ages 15+
+> Two full hours of wakesurfing. Ideal for content creators, addicts, and serious riders.
 
-### 보트 투어 / Boat Tours
-> Round-trip motorboat experiences from our pier — **including iconic Gapyeong landmarks**. Up to 5 (Standard) or 10 (Luxury Houseboat) per boat. *Price is per boat, not per person.*
+#### Product 8 — **Jet Ski & BBQ Lakeside Stay**
+**₩400,000 / person** · 60-min activity + BBQ + 1 night stay · Ages 19+
+> Classic jet ski experience on the lake + BBQ dinner + overnight cabin stay. For groups who want both thrill and night.
 
-#### Product 11 — Petite France Boat Tour (5-seater)
-**₩80,000 / boat** (up to 5 people) · 10-15 min round trip
-> Glide past Petite France, the famous fairytale village seen in K-dramas. Photo stop included.
+#### Product 9 — **Luxury Yacht & Lakeside Stay (Group)** ⛵
+**₩700,000 / boat** (up to 20) + ₩50,000 / person stay add-on · 60-min + 1 night
+> Buy the boat for your group (~₩35,000/person if 20 pax) — then everyone stays overnight in lakeside cabins. Perfect for bachelorette, corporate retreat, family reunion.
 
-#### Product 12 — Sand Island Boat Tour (5-seater)
-**₩100,000 / boat** (up to 5) · 15-20 min round trip
-> Quick lake cruise to the famous sandbar — great for selfies and a quick swim.
+### 보트 투어 — Stay-Included Bundles ⛴️🛏️
 
-#### Product 13 — **Nami Island Boat Tour (5-seater)** 🌳 BUCKET LIST
-**₩300,000 / boat** (up to 5 = ₩60,000/person) · 50-60 min round trip
-> Take a private motorboat to **Nami Island** — Korea's most iconic destination, made famous by *Winter Sonata*. Skip the regular tourist ferry. Round trip from our pier.
+> 모든 럭셔리 보트 투어 = ₩300k+ 자동 트리거 → 숙박+BBQ 포함.
 
-#### Product 14 — Luxury Houseboat to Nami Island (10-seater)
-**₩700,000 / boat** (up to 10 = ₩70,000/person) · 50-60 min round trip
-> Spacious houseboat with relaxed seating. Ideal for groups, couples, or content shoots. Round trip from our pier.
+#### Product 10 — **Nami Island Boat Tour & Lakeside Stay (Group of 5)** 🌳 BUCKET LIST
+**₩300,000 / boat** (up to 5 = ~₩60,000/person) + 1 night stay · 50-60 min round trip
+> Private motorboat to **Nami Island** + overnight lakeside cabin stay. Skip the tourist ferry. Cheongpyeong's signature 1-night escape.
+>
+> **Includes**: Private boat round trip • **Lakeside cabin stay (1 night)** • Free pickup • Group photo session
 
-#### Product 15 — Luxury Houseboat — Hongcheon River Cruise (10-seater)
-**₩400,000 / boat** (up to 10) · 30-40 min round trip
-> Cruise up Hongcheon River on a luxury houseboat. Group-friendly, view-rich.
+#### Product 11 — **Luxury Houseboat to Nami Island & BBQ Stay (Group of 10)**
+**₩700,000 / boat** (up to 10 = ~₩70,000/person) · 50-60 min + BBQ + 1 night stay
+> Spacious houseboat for groups + BBQ dinner + overnight cabin stay. Perfect for big groups, couples, content shoots.
+>
+> **Includes**: Private luxury houseboat • **Sunset BBQ dinner** • **Lakeside cabin stay (1 night)** • Free pickup
+
+#### Product 12 — Petite France Boat Tour (Day-Only)
+**₩80,000 / boat** (up to 5) · 10-15 min round trip · Day-Only
+> Quick photo cruise past Petite France village. Add to any stay package as a morning activity.
+
+#### Product 13 — Sand Island Boat Tour (Day-Only)
+**₩100,000 / boat** (up to 5) · 15-20 min round trip · Day-Only
+> Quick lake cruise to the famous sandbar — great for selfies and swimming.
 
 ### 콤보 / Ultimate Combos 🏆
 

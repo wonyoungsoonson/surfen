@@ -32,6 +32,8 @@
 - [registration-checklist.md](02_marketing/registration-checklist.md) — 채널 등록 로드맵
 - [competitive-landscape.md](02_marketing/competitive-landscape.md) — 가평 시장 분석
 - [content-calendar-30day.md](02_marketing/content-calendar-30day.md) — 첫 30일 콘텐츠
+- [free-stay-positioning.md](02_marketing/free-stay-positioning.md) — **"Stay Included" 마케팅 전략 (핵심)**
+- [klook-category-keywords.md](02_marketing/klook-category-keywords.md) — Klook 카테고리·키워드
 - [ota-listing-copy-en.md](03_sales/ota-listing-copy-en.md) — OTA 영문 카피 즉시 사용
 
 **사장님 미팅**

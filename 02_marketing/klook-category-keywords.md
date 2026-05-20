@@ -109,7 +109,25 @@ Klook + Trazy + Google 검색 패턴 분석 + 가평 208개 결과의 의미:
 | **bachelor / bachelorette korea** | 그룹 | 프라이빗 파티 패키지 |
 | **content creator korea** | 인플루언서 | 인플루언서 협업 패키지 |
 
-### 🆕 4순위 — B2B · 숙박 · 픽업 (새 카테고리, 2026-05-20 추가)
+### 🎁 New Top Tier — Stay Included (마케팅 핵심 키워드, 2026-05-20)
+
+> 모든 시그니처 상품에 숙박 묶음 → 검색·OTA 카테고리 진입에 결정적.
+
+| 키워드 | 카테고리 | 우리 매핑 |
+| --- | --- | --- |
+| **stay included activity** | 1박 패키지 | 시그니처 Bundle 전체 |
+| **overnight package korea** | 1박 패키지 | 시그니처 Bundle |
+| **water sports stay package** | 1박 패키지 | Wakesurf/Fliteboard Bundle |
+| **all-inclusive korea activity** | 묶음 상품 | "Activity + Stay + BBQ" |
+| **sleep where you surf** | 자체 슬로건 | 헤드라인 |
+| **lakeside cabin korea** | 숙박 | 모든 Bundle |
+| **lake house stay near seoul** | 숙박 | 모든 Bundle |
+| **gapyeong overnight** | 숙박 | 모든 Bundle |
+| **cheongpyeong stay** | 숙박 | 모든 Bundle |
+| **bbq + stay package korea** | 프리미엄 | ₩200k+ Bundle |
+| **weekend escape from seoul** | 1박 | 모든 Bundle |
+
+### 🆕 4순위 — B2B · 숙박 · 픽업 (2026-05-20 추가)
 
 | 키워드 | 카테고리 | 우리 매핑 |
 | --- | --- | --- |
